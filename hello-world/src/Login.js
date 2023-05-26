@@ -1,3 +1,4 @@
+import React from 'react';
 import withCenter from './CenterHOC'
 const Login = () =>{
     return <>

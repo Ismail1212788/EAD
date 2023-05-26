@@ -1,3 +1,4 @@
+import React from "react";
 export default function withCenter(WrappedComponent){
     function NewComponent(){
         return <div style={{display:'flex', justifyContent:'center', alignItems:'center', height:600}}>

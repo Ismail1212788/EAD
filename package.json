@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ead": "^0.0.20180115",
+    "react-router-dom": "^6.11.2"
+  }
+}

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import React from 'react';
 export default function withCounter(WrappedComponent){
     function NewComponent(props){
         const [count, setCount] = useState(0)

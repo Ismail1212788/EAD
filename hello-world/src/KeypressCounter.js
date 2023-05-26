@@ -1,7 +1,7 @@
 import { useState } from "react";
 import withCenter from "./CenterHOC";
 import withCounter from "./CounterHOC";
-
+import React from "react";
 
 function KeypressCounter(props){
     return <>
